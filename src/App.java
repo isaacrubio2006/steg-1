@@ -1,9 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int = 5; 
-        if (Tal==6){
 
+        if (6 >= 3) {
+
+            System.out.println("Hello, World!");
         }
-        System.out.println("Hello, World!");
     }
 }
